@@ -44,8 +44,6 @@ header {
     color: #b88978;
 }
 
-/* Main Content */
-
 .maincontent {
     grid-area: main;
     padding: 50px 60px;
